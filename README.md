@@ -1,4 +1,4 @@
-# S.A.E-IA
+# S.A.E-IA - Sistema de auxílio de enfermagem
 O programa tem 5 funcionalidades:
 -   Admissão de pacientes recém chegados no hospital;
 -   Análise da situação do paciente com uso de IA(Grave, muito grave e etc...);
